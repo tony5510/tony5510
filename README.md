@@ -9,6 +9,7 @@
 
 ### :man_technologist: About me:
 
-My journey in IT began with admission to a specialized university. I tried myself in many areas, but what interested me most was web development^^
+- 📚 Currently in my fourth year at RTU Mirea, on a journey to master the art of coding.
+- 🌐 I've been diving into the world of web development for the past 4 months, exploring the realms of HTML, CSS, and JavaScript. Recently, I've embarked on the exciting journey of learning Angular, adding a powerful tool to my development arsenal.
 
 - 🔭 I've been studying web-programming for 5 months now.
