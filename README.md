@@ -4,7 +4,7 @@
 
 # **<div align="center">Hi there👋. Welcome to my GitHub profile :3</div>**  
   
-### <div align="center">My nickname is Tony5510, I'm a beginner web developer! <img src="https://media.giphy.com/media/U16eJ5dFcfiolA5u85/giphy.gif" width="40px"> </div>  
+### <div align="center">My nickname is Tony5510, I'm a beginner web developer! </div>  
 ---
 
 ### 📖 About me:
